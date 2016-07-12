@@ -1,3 +1,2 @@
-# YuChenWiFiToIR
-connecting cell phone to a small WiFi modual
-pcb
+# YuChenSmartKTVSystem
+iPhone App suport.
